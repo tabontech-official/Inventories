@@ -1,0 +1,13 @@
+#loginform {
+  display: flex;
+  justify-content: center;
+}
+
+.main-div {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+
+  width: 100%;
+  height: 100%;
+}

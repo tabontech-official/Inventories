@@ -1,0 +1,36 @@
+.shopified {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.mybuttons {
+  margin: auto;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+}
+.mybuttons > div {
+  margin: 6px;
+}
+.spinner-border {
+  position: absolute;
+  left: 50%;
+  top: 65%;
+  z-index: 1000;
+
+  width: 31px;
+}
+
+.mybuttons3 {
+  margin: auto;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+}
+.mybuttons3 > div {
+  margin: 6px;
+}
+
+.mybuttons4 {
+  display: none;
+}

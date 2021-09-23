@@ -1,0 +1,14 @@
+.server {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.serverButton {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.serverButton > div {
+  margin: 6px;
+}
